@@ -1,4 +1,4 @@
-### The Odin Project
+# The Odin Project
 
 !!! UNDER DEVELOPMENT !!!
 <!-- This README file is supposed to change through time -->
@@ -8,7 +8,7 @@
 This repo will save snapshots of my progress doing the Odin project, going
 from the fundamentals then the Javascript path.
 
-# Goals
+### Goals
 
 1. Finish the fundamentals
 2. Start Javascript path
